@@ -4,6 +4,11 @@ import java.io.IOException;
 import java.io.FileNotFoundException;
 import java.io.File;
 import java.util.Scanner;
+
+/**
+ * @author Carlos Moragon
+ */
+
 public class Principal{
 	public static void main(String[] args){
 		//try{} es para atrapar excepciones

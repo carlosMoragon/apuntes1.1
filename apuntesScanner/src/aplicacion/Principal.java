@@ -5,6 +5,11 @@ import java.io.FileNotFoundException;
 import java.io.File;
 import java.util.Scanner;
 import java.util.InputMismatchException;
+
+/**
+ * @author Carlos Moragon
+ */
+
 public class Principal{
 	public static void main(String[] args){
 		//Sytem.in para pedir texto a la consola

@@ -1,5 +1,10 @@
 package aplicacion;
 import dominio. *;
+
+/**
+ * @author Carlos Moragon
+ */
+
 public class Principal{
 	public static void main(String[] args){
 		//CONSTRUCTORES SE UTILIZAN CON CLASES
