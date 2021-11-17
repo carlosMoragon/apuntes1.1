@@ -12,6 +12,10 @@ public class Principal{
 		int numero = sc.nextInt();
 		sc.close();
 		boolean condicion = true;
+		// '|| = or
+		// '&&' = and
+		// Para igualar numeros (int) se utiliza el == en la condicion
+		// Para igualr Strings se utiliza el .equals(" ") o si quieres que sea igual no importa si son mayusc o minusc se utiliza el .equalsIgnoreCase(" ")
 		if(numero < 10){
 			System.out.println("El numero es menor a 10");
 		} else if (numero <20){
