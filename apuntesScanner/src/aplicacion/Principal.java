@@ -12,9 +12,10 @@ import java.util.InputMismatchException;
 
 public class Principal{
 	public static void main(String[] args){
-		//Sytem.in para pedir texto a la consola
+		//Sytem.in para pedir texto a la consola (al usuario)
 		/*Scanner sc = new Scanner(System.in);
 		  String texto = "";
+		  //la extension .hasNext() mira si hay un elemento mas para leer y si no lo hay no se ejecuta
 		  while(sc.hasNext()){
 		  texto += sc.next() + " ";
 		  }
@@ -24,6 +25,7 @@ public class Principal{
 		  System.out.println("Introduzca su nombre: ");
 		  String nombre = sc.next();
 		  System.out.println("Su nombre es " + nombre);
+		  //sc.close() para cerrar el scanner. Es recomendado cerrarlo al final de todo el codigo
 		  sc.close();*/
 		/*//Opcion 1
 		  Scanner sc = new Scanner(System.in);
@@ -44,6 +46,12 @@ public class Principal{
 		sc.close();
 		*/
 
+		/*Tipos de variables que se pueden almacenar con el scanner:
+		 * sc.next() para Strings
+		 * sc.nextInt() para ints
+		 * etc.
+		 */
+	
 
 		Scanner sc = new Scanner(System.in);
 
