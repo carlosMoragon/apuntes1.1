@@ -1,0 +1,7 @@
+Modificadores:
+	
+	- Public: Cuando se pone public delante de un atributo o metodo, el mismo es accesible desde cualquier clase.
+
+	- Private: Cuando se pone private delante de un atributo o metodo, el mismo solo es accesible desde esa misma clase.
+
+	- No se pone nada: Cuando no se pone nada delante de un atributo o metodo, el mismo solo es accesible desde las clases de su mismo paquete.

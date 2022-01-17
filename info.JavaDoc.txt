@@ -1,0 +1,7 @@
+Comentarios JavaDoc:
+
+	- @param: para indicar los parametros que se le pasa a un método.
+	- @author: para indicar los autores del código.
+	- @see: Lo que se hace en la clase.(Creo). Un ejemplo: Se inicializa el método procesarProcesar().
+	- @throws: Indica que excepción lanza el método. Ejemplo: @throws IOException.
+	- @return: Indica lo que devuelve un método.
